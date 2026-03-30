@@ -1,0 +1,30 @@
+## 基础操作
+- 找文件位置`find $ROOTSYS -name "basic.dat"`
+	- `find ~ -name "exo_j2.data"`这个也可以，是在整个系统中找，要慢一些
+- `.q` 退出程序
+- `.?` 将所有的命令列出来
+- `.!` 后接什么，就相当于你在 Linux 终端（Terminal）里直接输入了什么
+- `gedit *.C` 打开所有后缀为.C的代码
+	- 这个页面可以调大小，可以复制粘贴
+- 怎么写脚本然后运行
+	- `vim 文件名.C`文件存在目前所在的位置
+	- 摁i键开始输入，ESC键退出编辑，:wq保存退出，:%d全部清空
+		- :是输入指令，%是全部，d是delete，w是写入，q是退出
+	- `root -l 文件名.C`运行
+	- `root [0] .! vim 文件名.C`这样就可以在root里开新文件啦
+- 移动文件
+	- `mv Map_Decay_00239_00239.root ..`意思是把这个root文件从所在文件夹移动到上一级目录中
+- 复制文件
+	- `cp Map_Decay_00239_00239.root ..`意思是把`Map_Decay_00239_00239.root`文件复制到上一级目录
+- 链接文件
+	- `ln -s ../../setup.h setup.h`
+		- ln是link，-s是symbolic link（软链接），../../setup.h是被链接的“真实文件”，setup.h是当前目录中生成的链接名，注意一定不要写反了
+	- `ls -l setup.h`看有没有链接上，如果出现`setup.h -> ../../setup.h`说明链接正确建立
+	- 如果文件夹中已存在该文件，那就先`rm setup.h`删掉这个文件再链接
+- 删除文件` rm -f 文件名`
+- 把原本为可执行文件但没有执行权限（白色）的文件转为可执行的文件（绿色）
+	- `chmod +x Get_* Manual_* Decay_* AutoCal_*`
+		- "Get_"开头的文件
+	- `chmod +x Normalize_DSSD` 
+		- “Normalize_DSSD”文件名
+

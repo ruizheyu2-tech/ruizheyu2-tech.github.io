@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "060e9995802197a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "74c75d187d12476a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd1994f102af616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "组会/核物理组会.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "核物理组会"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7943a7de7dd73d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd6668d617f53ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f29dae9fe3e34d55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "561c2e2725d43859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "41598da171ab847a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8cf5f5d6218c1550",
+    "type": "split",
+    "children": [
+      {
+        "id": "9709777cc5271d69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5a764831fb459f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数据分析/Linux终端操作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linux终端操作 的反向链接列表"
+            }
+          },
+          {
+            "id": "eec9f65aa5409bcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "辐照实验/信号处理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 信号处理"
+            }
+          },
+          {
+            "id": "17c547f1cbc2a506",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1315c153098ba596",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数据分析/Root.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Root"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "0fd1994f102af616",
+  "lastOpenFiles": [
+    "数据分析/离线数据分析程序详解.md",
+    "组会/核物理组会.md",
+    "数据分析/Root运行案例.md",
+    "数据分析/Root基础命令.md",
+    "数据分析/刻度流程.md",
+    "数据分析/数据分析实操.md",
+    "数据分析/Linux终端操作.md",
+    "未命名 1.md",
+    "组会",
+    "辐照实验/数据记录操作.md",
+    "辐照实验/SHANS/使用说明及操作规范等.md",
+    "辐照实验/SHANS/新束流调制电子学.md",
+    "辐照实验/SHANS/设备及相关系统介绍.md",
+    "辐照实验/SHANS/充气反冲核谱仪SHANS2实验研究.md",
+    "辐照实验/SHANS/超重元素与超重核研究.md",
+    "辐照实验/新核素合成理论基础.md",
+    "Untitled.md",
+    "Pasted image 20260209171855.png",
+    "数据分析/自带root文件.md",
+    "辐照实验/信号处理理论基础.md",
+    "辐照实验/数据记录.md",
+    "辐照实验/理论基础.md",
+    "Untitled.base",
+    "Pasted image 20260128221437.png",
+    "3fd3aa4e53ee3876e07fe4cbe2a0a82 1.jpg",
+    "3fd3aa4e53ee3876e07fe4cbe2a0a82.jpg",
+    "c03f3e53c9253f751115f3f648761e7 1.jpg",
+    "c03f3e53c9253f751115f3f648761e7.jpg",
+    "Pasted image 20260127210624.png",
+    "Untitled 1.base",
+    "5a365a38ace89a486e8cd4d2b432509.jpg",
+    "Pasted image 20260126165036.png",
+    "Untitled 5.base",
+    "Untitled 2.base",
+    "Untitled 6.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Pasted image 20260121170418.png",
+    "辐照实验/SHANS",
+    "辐照实验/新核素合成实验数据记录.md",
+    "辐照实验/道址和能量的线性关系.md",
+    "Welcome.md",
+    "数据分析"
+  ]
+}
