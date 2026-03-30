@@ -1,1 +1,0 @@
-# 86Sr-107Ag-Synthesis-of-New-Nuclides
